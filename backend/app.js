@@ -2,7 +2,7 @@ var nodejsmailer  = require('nodemailer');
 
 var mailOptions ={
     from:'avinash.yadav02102004@gmail.com',
-    to:'goodboyisback@gmail.com',
+    to:'singhkumkum769@gmail.com',
     subject:"Sending Email to Rajat",
     text:"Welcome to NodeMailer, It's Working",
     html: '<h1>Welcome</h1><p>That was easy!</p>',
